@@ -1,6 +1,7 @@
 # Machine-Learning-for-Housing-Valuation-in-France
 Machine Learning for Housing Valuation in France
 
+⏳ **Project Status: In Progress**
 
 ## 🗂️ Data Sources
 
