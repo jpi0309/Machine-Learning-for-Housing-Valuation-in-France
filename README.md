@@ -3,6 +3,18 @@ Machine Learning for Housing Valuation in France
 
 ⏳ **Project Status: In Progress**
 
+**data_preparation1.ipynb**
+
+Exploratory analysis of the overall condition and structure of the DVF dataset, focusing on real estate transaction data quality, completeness, and basic statistical properties.
+
+**data_preparation2.ipynb**
+
+Enhances the original dataset by engineering additional features, including population density, environmental interaction variables (e.g., distance to the nearest hospital, number of shops within a specified radius), and distance to the coastline.
+
+**data_preparation3.ipynb**
+
+Focused on univariate and multivariate analysis of the enriched dataset to better understand variable distributions and relationships. (In progress)
+
 ## 🗂️ Data Sources
 
 | Name | Source | Description | Link |
